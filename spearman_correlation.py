@@ -1,7 +1,6 @@
 # version: python 3.6
 # calculate the spearman correlation of each pair of variable
 
-import numpy as np
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
